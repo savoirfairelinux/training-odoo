@@ -1,0 +1,2 @@
+# training-odoo
+Training doc
